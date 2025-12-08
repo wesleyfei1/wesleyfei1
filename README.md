@@ -1,17 +1,32 @@
-## Hi there 👋
-[![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfei1)](https://github.com/wesleyfei1/github-readme-stats)
-<!--
-**wesleyfei1/wesleyfei1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! I'm WesleyFei
 
-Here are some ideas to get you started:
+🚀 A self-motivated second-year undergraduate student majoring in **Artificial Intelligence (AI)** at the University of Science and Technology of China (USTC SGY).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfei1&layout=compact" />
+
+### 🧠 My Focus & Interests
+
+As a passionate self-learner, I am committed to exploring open-courses and tackling complex challenges in modern AI.
+
+* **Core Research Areas:**：Generative System, GNN&LLM, RL
+* **Programming Languages:** Python (Fluent), C++ (Familiar)
+* **Frameworks/Tools:** PyTorch, TensorFlow, Hugging Face, NumPy, Pandas
+
+
+### 📚 Learning Philosophy
+
+I prioritize hands-on projects and theoretical foundations, striving to bridge academic knowledge with practical AI applications.
+
+
+### 🏀 Beyond the Code
+* **Basketball Enthusiast:** James Harden MVP!!!!!
+* **Anime Fan:**: a great fan on Attack on Titan, Demon Slayer, ONE PIECE and so on
+
+
+### 🤝 Let's Connect!
+
+I welcome collaboration and discussion on any AI/Tech topics. Feel free to reach out!
+
+* 📧 **Email:** [wesleyfei224@gmail.com]
+* 🔗 **Personal Blog/Website:** [wesleyfei1.github.io]
+
+---
