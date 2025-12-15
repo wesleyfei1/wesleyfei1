@@ -12,7 +12,7 @@ As a passionate self-learner, I am committed to exploring open-courses and tackl
 * **Frameworks/Tools:** PyTorch, TensorFlow, Hugging Face, NumPy, Pandas
 
 
-### 📚 Education & Learning Philosophy (已修改)
+### 📚 Education & Learning Philosophy
 
 As an aspiring **'Philosopher in AI'**, I am deeply passionate about **seeking the underlying philosophy** and fundamental principles behind the knowledge derived from courses and research papers. My approach is to combine this deep theoretical quest with hands-on projects, ensuring a robust connection between academic understanding and practical AI applications.
 
