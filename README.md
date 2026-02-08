@@ -27,4 +27,4 @@ As an aspiring **'Philosopher in AI'**, I am deeply passionate about **seeking t
 I welcome discussion **on any topics from every field**. Feel free to reach out!
 
 * 📧 **Email:** [wesleyfei224@gmail.com]
-* 🔗 **Personal Blog/Website:** [wesleyfei1.github.io]
+* 🔗 **Personal Blog/Website:** [https://bauklotze.top/]
