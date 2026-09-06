@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm WesleyFei
 
-🚀 A self-motivated second-year undergraduate student majoring in **Artificial Intelligence (AI)** at the University of Science and Technology of China (USTC SGY).
+🚀 A self-motivated third-year undergraduate student majoring in **Artificial Intelligence (AI)** at the University of Science and Technology of China (USTC SGY).
 
 
 ### 🧠 My Focus & Interests
